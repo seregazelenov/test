@@ -7,7 +7,17 @@ sdffdknvdxkcxvcÿ÷ÿ÷ÿ÷ÿ÷ÿccc
 
 
 
+<<<<<<< HEAD
 master master
 master
 master
 master
+=======
+xcxxcx
+xxx
+zzz
+
+
+new new new new new new new 
+new new new new new new new
+>>>>>>> origin/new
