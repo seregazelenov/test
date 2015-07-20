@@ -1,14 +1,10 @@
-Парарарарам
-вслчсолсчтсчл
+ГЏГ Г°Г Г°Г Г°Г Г°Г Г¬
+ГўГ±Г«Г·Г±Г®Г«Г±Г·ГІГ±Г·Г«
 hkfjsdfkksf
-sdffdknvdxkcxvcячячячячяccc
+sdffdknvdxkcxvcГїГ·ГїГ·ГїГ·ГїГ·Гїccc
 
-чxx
+Г·xx
 
-
-
-<<<<<<< HEAD
-<<<<<<< HEAD
 master master
 master
 master
@@ -23,7 +19,4 @@ zzz
 
 new new new new new new new 
 new new new new new new new
-<<<<<<< HEAD
->>>>>>> origin/new
-=======
->>>>>>> origin/new
+
