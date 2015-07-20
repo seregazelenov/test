@@ -8,11 +8,14 @@ sdffdknvdxkcxvcÿ÷ÿ÷ÿ÷ÿ÷ÿccc
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 master master
 master
 master
 master
 =======
+=======
+>>>>>>> origin/new
 xcxxcx
 xxx
 zzz
@@ -20,4 +23,7 @@ zzz
 
 new new new new new new new 
 new new new new new new new
+<<<<<<< HEAD
+>>>>>>> origin/new
+=======
 >>>>>>> origin/new
